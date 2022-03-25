@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Slabo 27px', serif;
+}
+/* .content{
+    font-size: 20px;
+} */
+
+.main-container .nav-content .navbar{
+    height: 80px;
+    background-color: #5F9EA0;
+}
+.navbar:hover{
+background-color: #696969;
+}
+.nav-content .navbar-brand {
+font-style: italic;
+font-size: 30px;
+}
+.navbar-nav{
+    align-items: right;
+    text-align: right;
+}
+.nav-item .nav-link{
+font-size: 20px;
+}
+.nav-item li a{
+margin-right: 500px;
+float: left;
+}
+.main-container .m-content{
+    width: 50%;
+}
